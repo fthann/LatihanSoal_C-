@@ -1,0 +1,14 @@
+C:\Users\Rado\LatihanSoal_C#\bin\Debug\net8.0\LatihanSoal_C#.exe
+C:\Users\Rado\LatihanSoal_C#\bin\Debug\net8.0\LatihanSoal_C#.deps.json
+C:\Users\Rado\LatihanSoal_C#\bin\Debug\net8.0\LatihanSoal_C#.runtimeconfig.json
+C:\Users\Rado\LatihanSoal_C#\bin\Debug\net8.0\LatihanSoal_C#.dll
+C:\Users\Rado\LatihanSoal_C#\bin\Debug\net8.0\LatihanSoal_C#.pdb
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.AssemblyInfoInputs.cache
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.AssemblyInfo.cs
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.csproj.CoreCompileInputs.cache
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.dll
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\refint\LatihanSoal_C#.dll
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.pdb
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\LatihanSoal_C#.genruntimeconfig.cache
+C:\Users\Rado\LatihanSoal_C#\obj\Debug\net8.0\ref\LatihanSoal_C#.dll
